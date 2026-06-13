@@ -84,7 +84,7 @@ d) Click **Enter to attain clarity**.
 
 **2. Deployed on Vercel**
 
-Follow this link to access the deployed Vercel page — 
+Follow this link to access the deployed Vercel page — https://tda-gen-agentic-ai-week2.vercel.app/
 
 ---
 
